@@ -11,7 +11,7 @@
     "build": "node server"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "express": "^4.16.4",
     "prop-types": "^15.6.1",
     "react": "^16.13.0",
